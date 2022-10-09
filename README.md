@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+!+I+am+Shubhang;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+!+I+am+Shubhang++%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%98%81+!)](https://git.io/typing-svg)
 - 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently enhancing my DSA
 - 💞️ I’m looking to collaborate on projects related to front-end application or Blockchain
